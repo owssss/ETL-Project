@@ -38,4 +38,6 @@ CREATE TABLE movies (
 ALTER TABLE movies 
 ALTER COLUMN release_date TYPE DATE;
 
+-- Looking to normalize this database and make the movies a staging table
+
 
